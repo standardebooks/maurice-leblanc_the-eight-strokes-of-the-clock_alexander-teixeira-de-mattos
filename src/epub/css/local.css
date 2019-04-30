@@ -11,6 +11,10 @@ span[epub|type~="subtitle"]{
 	font-weight: normal;
 }
 
+abbr.time{
+	font-variant: small-caps;
+}
+
 [epub|type~="z3998:recipient"]{
 	text-align: left;
 	font-style: italic;

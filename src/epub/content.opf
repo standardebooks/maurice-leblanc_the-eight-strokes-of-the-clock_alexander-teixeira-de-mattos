@@ -2,8 +2,8 @@
 <package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/maurice-leblanc/the-eight-strokes-of-the-clock/alexander-teixeira-de-mattos</dc:identifier>
-		<dc:date>1900-01-01T00:00:00Z</dc:date>
-		<meta property="dcterms:modified">1900-01-01T00:00:00Z</meta>
+		<dc:date>2019-05-01T22:06:24Z</dc:date>
+		<meta property="dcterms:modified">2019-05-01T22:06:24Z</meta>
 		<dc:rights>The source text and artwork in this ebook edition are believed to be in the U.S. public domain. This ebook edition is released under the terms in the CC0 1.0 Universal Public Domain Dedication, available at https://creativecommons.org/publicdomain/zero/1.0/. For full license information see the Uncopyright file included at the end of this ebook.</dc:rights>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
@@ -40,15 +40,15 @@
 		<dc:description id="description">A prince enlists a lady to help him solve eight mysteries.</dc:description>
 		<meta property="meta-auth" refines="#description">https://standardebooks.org</meta>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			&lt;p&gt;Trying to escape from her boring life, Hortense Daniel meets the mysterious Prince Rénine (or should we say Arsène Lupin?) who enlists her help to solve eight mysteries, starting with one that is for her very close to home. The pair’s travels take the across northern France as they help ease the path of true love, bring thieves and murderers to justice, and eventually to recover something very dear to Hortense’s heart.&lt;/p&gt;
+			&lt;p&gt;Trying to escape from her boring life, Hortense Daniel meets the mysterious Prince Rénine (or should we say Arsène Lupin?) who enlists her help to solve eight mysteries, starting with one that is for her very close to home. The pair’s travels take them across northern France as they help ease the path of true love, bring thieves and murderers to justice, and eventually to recover something very dear to Hortense’s heart.&lt;/p&gt;
 			&lt;p&gt;&lt;i&gt;The Eight Strokes of the Clock&lt;/i&gt; is an Arsène Lupin novel by any other name, with Maurice Leblanc admitting as much in an opening note. Set in the early days of the character’s history, this collection of mysteries has the hallmarks of classic Lupin: a fervent desire to impress, dazzling jumps of logic and an ambivalent belief that the law can provide justice. This English translation was published in 1922 in the same year it was being serialized in France; it was published in novel form there a year later.&lt;/p&gt;
 		</meta>
 		<meta property="meta-auth" refines="#long-description">https://standardebooks.org</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/7896</dc:source>
 		<dc:source>https://catalog.hathitrust.org/Record/100325006</dc:source>
-		<meta property="se:word-count">WORD_COUNT</meta>
-		<meta property="se:reading-ease.flesch">READING_EASE</meta>
+		<meta property="se:word-count">63895</meta>
+		<meta property="se:reading-ease.flesch">74.59</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/maurice-leblanc_the-eight-strokes-of-the-clock_alexander-teixeira-de-mattos</meta>
 		<dc:creator id="author">Maurice Leblanc</dc:creator>
 		<meta property="file-as" refines="#author">Leblanc, Maurice</meta>
@@ -87,6 +87,10 @@
 		<meta property="role" refines="#producer-1" scheme="marc:relators">mrk</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">pfr</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">tyg</meta>
+		<dc:contributor id="producer-2">Alex Cabal</dc:contributor>
+		<meta property="file-as" refines="#producer-2">Cabal, Alex</meta>
+		<meta property="se:url.homepage" refines="#producer-2">https://alexcabal.com</meta>
+		<meta property="role" refines="#producer-2" scheme="marc:relators">pfr</meta>
 	</metadata>
 	<manifest>
 		<item href="toc.xhtml" id="toc.xhtml" media-type="application/xhtml+xml" properties="nav"/>

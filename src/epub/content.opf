@@ -26,24 +26,25 @@
 		<meta property="schema:accessibilityFeature">tableOfContents</meta>
 		<meta property="schema:accessibilityHazard">none</meta>
 		<meta property="schema:accessibilitySummary">This publication conforms to WCAG 2.0 Level AA.</meta>
-		<link href="onix.xml" rel="onix-record"/>
+		<link href="onix.xml" media-type="application/xml" properties="onix" rel="record"/>
 		<dc:title id="title">The Eight Strokes of the Clock</dc:title>
 		<meta property="file-as" refines="#title">Eight Strokes of the Clock, The</meta>
 		<dc:subject id="subject-1">Burglars -- Fiction</dc:subject>
 		<dc:subject id="subject-2">Lupin, Arsène (Fictitious character) -- Fiction</dc:subject>
 		<dc:subject id="subject-3">Adventure stories, French -- Translations into English</dc:subject>
-		<meta property="meta-auth" refines="#subject-1">https://www.gutenberg.org/ebooks/7896</meta>
-		<meta property="meta-auth" refines="#subject-2">https://www.gutenberg.org/ebooks/7896</meta>
-		<meta property="meta-auth" refines="#subject-3">https://www.gutenberg.org/ebooks/7896</meta>
+		<meta property="authority" refines="#subject-1">LCSH</meta>
+		<meta property="term" refines="#subject-1">sh2009117895</meta>
+		<meta property="authority" refines="#subject-2">LCSH</meta>
+		<meta property="term" refines="#subject-2">sh2010100204</meta>
+		<meta property="authority" refines="#subject-3">LCSH</meta>
+		<meta property="term" refines="#subject-3">Unknown</meta>
 		<meta property="se:subject">Fiction</meta>
 		<meta property="se:collection">Arsène Lupin</meta>
 		<dc:description id="description">A prince enlists a lady to help him solve eight mysteries.</dc:description>
-		<meta property="meta-auth" refines="#description">https://standardebooks.org</meta>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;Trying to escape from her boring life, Hortense Daniel meets the mysterious Prince Rénine (or should we say Arsène Lupin?) who enlists her help to solve eight mysteries, starting with one that is for her very close to home. The pair’s travels take them across northern France as they help ease the path of true love, bring thieves and murderers to justice, and eventually to recover something very dear to Hortense’s heart.&lt;/p&gt;
 			&lt;p&gt;&lt;i&gt;The Eight Strokes of the Clock&lt;/i&gt; is an Arsène Lupin novel by any other name, with Maurice Leblanc admitting as much in an opening note. Set in the early days of the character’s history, this collection of mysteries has the hallmarks of classic Lupin: a fervent desire to impress, dazzling jumps of logic and an ambivalent belief that the law can provide justice. This English translation was published in 1922 in the same year it was being serialized in France; it was published in novel form there a year later.&lt;/p&gt;
 		</meta>
-		<meta property="meta-auth" refines="#long-description">https://standardebooks.org</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/7896</dc:source>
 		<dc:source>https://catalog.hathitrust.org/Record/100325006</dc:source>

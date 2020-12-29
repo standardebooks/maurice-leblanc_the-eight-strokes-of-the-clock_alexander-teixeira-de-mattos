@@ -11,6 +11,10 @@ footer{
 	font-style: italic;
 }
 
+[epub|type~="z3998:salutation"] + p{
+	text-indent: 0;
+}
+
 [epub|type~="z3998:salutation"]{
 	font-variant: small-caps;
 }

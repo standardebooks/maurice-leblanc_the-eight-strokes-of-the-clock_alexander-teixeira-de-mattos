@@ -7,8 +7,8 @@ footer{
 }
 
 [epub|type~="z3998:recipient"]{
-	text-align: initial;
 	font-style: italic;
+	text-align: initial;
 }
 
 [epub|type~="z3998:salutation"] + p{
@@ -20,8 +20,8 @@ footer{
 }
 
 [epub|type~="se:letter.dateline"]{
-	text-align: right;
 	font-variant: small-caps;
+	text-align: right;
 }
 
 [epub|type~="z3998:signature"]{

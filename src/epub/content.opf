@@ -29,7 +29,7 @@
 		<meta property="schema:accessibilitySummary">This publication conforms to WCAG 2.2 Level AA.</meta>
 		<dc:title id="title">The Eight Strokes of the Clock</dc:title>
 		<meta property="file-as" refines="#title">Eight Strokes of the Clock, The</meta>
-		<meta property="dcterms:alternate" refines="#title">8 Strokes of the Clock</meta>
+		<meta property="dcterms:alternative" refines="#title">8 Strokes of the Clock</meta>
 		<dc:subject id="subject-1">Burglars -- Fiction</dc:subject>
 		<dc:subject id="subject-2">Lupin, Arsène (Fictitious character) -- Fiction</dc:subject>
 		<dc:subject id="subject-3">Adventure stories, French -- Translations into English</dc:subject>
